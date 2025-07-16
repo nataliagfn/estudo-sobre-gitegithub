@@ -8,3 +8,9 @@
 3. crio um fork;
 4. resolvo na minha codificação;
 5. e abro um **pull request**
+## tente não criar uma issues duplicada!
+1. sempre procure o erro que voce identificou, exemplo:
+- erro no vscode ? vai no github da Microsoft;
+- entre em "issues";
+- busque pelo erro.
+
