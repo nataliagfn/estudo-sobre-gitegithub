@@ -13,4 +13,7 @@
 - erro no vscode ? vai no github da Microsoft;
 - entre em "issues";
 - busque pelo erro.
-
+## mas e se eu nao achar uma resolução nas issues ?
+### ai sim, você cria a sua! 
+1. entre na pasta onde vc indentificou o erro:
+![Tela do perfil com pasta selecionada](C:\Users\natga\OneDrive\Documentos\meusprojetos\notas-de-estudo\estudo-sobre-gitegithub\imagens)
