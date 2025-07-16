@@ -21,3 +21,5 @@
 ![Texto](imagens/imagem3.png) 
 3. vá em **"Issues"**;
 ![Texto](imagens/imagem2.png)
+4. siga para **"new issue"**;
+![Texto](imagens/imagem4.png)
