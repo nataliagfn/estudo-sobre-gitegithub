@@ -16,4 +16,4 @@
 ## mas e se eu nao achar uma resolução nas issues ?
 ### ai sim, você cria a sua! 
 1. entre na pasta onde vc indentificou o erro:
-
+![](imagens)
