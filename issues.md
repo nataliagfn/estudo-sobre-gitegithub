@@ -17,3 +17,7 @@
 ### ai sim, você cria a sua! 
 1. entre na pasta onde vc indentificou o erro:
 ![Texto](imagens/imagem1.png)
+2. escolha o arquivo:
+![Texto](imagens/imagem2.png) 
+3. vá em **"Issues"**;
+![Texto](imagens/imagem2.png)
