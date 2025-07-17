@@ -8,4 +8,12 @@
 ## O que é .md ?
 1. Literalmente MarkDown;
 2. HTML tem baixa *"habilidade de ler"*, mas markdown tem uma alta;
-## 
+## Onde usar o MarkDown ?
+1. No README.md
+2. Nas **issues**
+3. Nas pullrequests
+## Objetivos principais:
+1. Simples de ler;
+2. facil conversão pra HTML.
+ 
+
