@@ -23,3 +23,5 @@
 ![Texto](imagens/imagem2.png)
 4. siga para **"new issue"**;
 ![Texto](imagens/imagem4.png)
+5. Detalhe sua Issue e finalize
+![Texto](imagens/imagem5.png)
