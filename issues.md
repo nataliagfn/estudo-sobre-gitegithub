@@ -25,3 +25,7 @@
 ![Texto](imagens/imagem4.png)
 5. Detalhe sua Issue e finalize
 ![Texto](imagens/imagem5.png)
+6. Ela aparecerá desta maneira:
+![Texto](imagens/imagem6.png)
+
+## OBRIGADA ! <3
