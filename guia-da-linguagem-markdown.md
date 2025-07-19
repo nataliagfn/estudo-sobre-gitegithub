@@ -15,5 +15,9 @@
 ## Objetivos principais:
 1. Simples de ler;
 2. facil conversão pra HTML.
+## marcações:
+1. **negrito**: feito com 2 asterisco ou 2 underlines nos dois lados da palavra (imagem)
+2. *Itálico*: feito com 1 asterisco ou 1 underline nos dois lados da palavra (imagem)
+3. ~~Riscado (strike)~~: feito com dois tils ao lado da palavra (imagem)
  
 
