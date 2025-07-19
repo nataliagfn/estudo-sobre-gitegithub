@@ -19,5 +19,9 @@
 1. **negrito**: feito com 2 asterisco ou 2 underlines nos dois lados da palavra (imagem)
 2. *Itálico*: feito com 1 asterisco ou 1 underline nos dois lados da palavra (imagem)
 3. ~~Riscado (strike)~~: feito com dois tils ao lado da palavra (imagem)
- 
+## Títulos
+1. # exemplo 1 com uma hashtags (#) 
+2. ## exemplo 2 com duas hashtags (##)
+3. ### exemplo 3 com três hashtags (###)
+###### isso pode ser realizado ate 6 hashtags (######)
 
