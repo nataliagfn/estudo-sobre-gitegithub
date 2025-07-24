@@ -25,3 +25,8 @@
 3. ### exemplo 3 com três hashtags (###)
 ###### isso pode ser realizado ate 6 hashtags (######)
 ## se você quiser uma linha bem demarcada:
+1. você utiliza três traços (---) ou três asterisco (***)
+---
+## pode-se misturar as marcações também 
+## Listas numeradas:
+1. Estrutura  
